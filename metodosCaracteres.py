@@ -44,4 +44,4 @@
 texto = "      "
 resultado = texto.isspace()
 print("Si",resultado)
-
+print("Prueba")
