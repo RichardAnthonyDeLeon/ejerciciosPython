@@ -40,8 +40,8 @@
 # resultado = texto.islower()
 # print(resultado)
 
-#metodo isspace
-# texto = "      "
-# resultado = texto.isspace()
-# print(resultado)
+# metodo isspace
+texto = "      "
+resultado = texto.isspace()
+print("Si",resultado)
 
